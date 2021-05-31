@@ -8,3 +8,5 @@ This is my SAD Lab project report
 4. Technical Specifications………... 14
 5. Risk Management ………………. 22
 6. Conclusion ………………………. 25
+ 
+ ![1](https://user-images.githubusercontent.com/78270149/120136814-cff43080-c1f4-11eb-9bb1-cd5f823346de.jpg)
